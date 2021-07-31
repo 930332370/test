@@ -1,2 +1,3 @@
 String msg = "sb";
 System.out.println(msg);
+String a = "a";
