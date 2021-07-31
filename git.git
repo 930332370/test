@@ -1,0 +1,2 @@
+String msg = "sb";
+System.out.println(msg);
